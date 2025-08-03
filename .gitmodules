@@ -1,0 +1,6 @@
+[submodule "QMetaModel"]
+	path = QMetaModel
+	url = git@github.com:MrHoldem/qmetamodel.git
+[submodule "DBridge"]
+	path = DBridge
+	url = git@github.com:MrHoldem/dbridge.git
